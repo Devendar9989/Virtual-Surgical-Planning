@@ -1,0 +1,5 @@
+{
+  "include": ["backend/**/*.py"],
+  "venvPath": "/data1/miccai/miniconda3/envs",
+  "venv": "vsp_proj"
+}

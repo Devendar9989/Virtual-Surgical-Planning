@@ -1,0 +1,9 @@
+fastapi[all]
+uvicorn[standard]
+python-multipart
+aiofiles
+aiosqlite
+websockets
+TotalSegmentator
+nibabel
+numpy
